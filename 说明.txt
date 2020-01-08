@@ -1,0 +1,4 @@
+创建表和修改表，删除表的sql脚本使用Ado的方式，
+查询使用EF，避免数据迁移的复杂性
+
+使用SqlCe数据库时，对应的是SqlCeConnection，SqlCeTransaction,SqlCeCommand
