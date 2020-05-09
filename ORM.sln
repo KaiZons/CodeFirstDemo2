@@ -9,11 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entiti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORMConfiguration", "ORMConfiguration\ORMConfiguration.csproj", "{C544F6DA-3794-4B94-AE7E-A4E9F5AEE49D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseUpgrade", "..\DatabaseUpgrade\DatabaseUpgrade.csproj", "{AB778937-2B3B-4D4C-B8BB-A09AE6F55CC3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseUpgrade", "DatabaseUpgrade\DatabaseUpgrade.csproj", "{AB778937-2B3B-4D4C-B8BB-A09AE6F55CC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "..\DataAccessLayer\DataAccessLayer.csproj", "{6BB06944-93A1-4F03-A54F-F9A504DB08E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", DataAccessLayer\DataAccessLayer.csproj", "{6BB06944-93A1-4F03-A54F-F9A504DB08E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "..\Utilities\Utilities.csproj", "{1A18AABA-95B0-4F39-BB2D-2ED8FB15C9FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{1A18AABA-95B0-4F39-BB2D-2ED8FB15C9FA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E1E169CC-55B2-4D0A-91FC-56E94B6C3A32}"
 	ProjectSection(SolutionItems) = preProject
